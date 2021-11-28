@@ -1,0 +1,5 @@
+This Project uses facial recognition library of Python and creates svc of each person and in a group photo will use thouse SVC to recognize the number of faces
+and faces of people they so when a screenshot of zoom class or a photo clicked during an offline class is entered then the program recognises the people in the
+group and gives a list of all the people present which can be then used to add it to whatever db the institution uses.
+
+It is recomended that atleast 5-6 photos of each student be added to train the model so that the model works well and no wrong attendance will be noted.
